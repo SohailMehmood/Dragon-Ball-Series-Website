@@ -1,5 +1,11 @@
+body {
+    background-color: rgb(231, 229, 232); 
+    color: rgb(28, 69, 149)   
+}
+
 h1 {
     text-align: center;
+    color: rgb(1, 8, 10);    
 }
 
 nav ul {
@@ -7,7 +13,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(1, 8, 10);
 }
 
 nav li {
@@ -17,8 +23,19 @@ nav li {
 
 nav li a {
     display: block;
-    color: white;
+    color: rgb(251, 188, 66);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
 }

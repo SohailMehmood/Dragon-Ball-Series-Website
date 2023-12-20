@@ -22,3 +22,17 @@ nav li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+.confirmation-message {
+    display: none;
+    text-align: center;
+    padding: 20px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+    border-radius: 5px;
+}
+
+#confirmation:target {
+    display: block;
+}

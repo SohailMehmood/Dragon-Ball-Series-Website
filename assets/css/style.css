@@ -1,11 +1,20 @@
 body {
-    background-color: rgb(231, 229, 232); 
-    color: rgb(28, 69, 149)   
+    background-color: rgb(231, 229, 232);
+    color: rgb(28, 69, 149)
 }
 
 h1 {
     text-align: center;
-    color: rgb(1, 8, 10);    
+    color: rgb(1, 8, 10);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(1, 8, 10);
+}
+
+p {
+    text-align: center;
 }
 
 nav ul {
@@ -14,6 +23,7 @@ nav ul {
     padding: 0;
     overflow: hidden;
     background-color: rgb(1, 8, 10);
+    box-shadow: rgba(231, 106, 36, 0.6) 0px 5px 15px;
 }
 
 nav li {
@@ -38,4 +48,17 @@ img {
 .responsive-image {
     max-width: 100%;
     height: auto;
+    box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
+}
+
+footer {
+    color: rgb(231, 106, 36);
+    text-align: center;
+    padding: 10px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }

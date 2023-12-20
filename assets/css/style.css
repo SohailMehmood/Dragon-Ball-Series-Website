@@ -51,6 +51,18 @@ img {
     box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
 }
 
+.series-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.series-image {
+    max-width: 25%;
+    height: auto;
+    box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
+}
+
 footer {
     color: rgb(231, 106, 36);
     text-align: center;

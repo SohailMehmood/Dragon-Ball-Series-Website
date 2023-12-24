@@ -1,6 +1,7 @@
 body {
     background-color: rgb(231, 229, 232);
     color: rgb(28, 69, 149);
+    font-weight: 600;
 }
 
 main {
@@ -84,6 +85,10 @@ figcaption {
     max-width: 25%;
     height: auto;
     box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
+}
+
+.series-image:target {
+    box-shadow: rgba(231, 106, 36, 0.6) 0px 5px 15px;
 }
 
 footer {

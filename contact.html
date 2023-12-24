@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dragon Ball Series History</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
@@ -13,48 +12,57 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <!-- Font Awsome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <title>Dragon Ball Series History</title>
 </head>
 
 <body>
-    <h1>Contact</h1>
-    <!-- Navigation -->
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="series.html">Series</a></li>
-            <li><a href="movies.html">Movies</a></li>
-            <li><a href="non-cannon.html">Non-Cannon</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul>
-    </nav>
-
-    <form action="" method="post">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" placeholder="Enter your name here" required><br>
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" placeholder="Enter your email here" required><br>
-        <label for="message">Message:</label><br>
-        <textarea name="message" id="message" cols="30" rows="10" placeholder="Enter your message here"
-            required></textarea><br>
-        <input type="submit" value="Send Message">
-    </form>
+    <!-- Header -->
+    <header>
+        <h1>Contact</h1>
+        <!-- Navigation -->
+        <nav>
+            <ul>
+                <li><a href="index.html" aria-label="Link to home page">Home</a></li>
+                <li><a href="dragonball.html" aria-label="Link to Dragon Ball page">Dragon Ball</a></li>
+                <li><a href="dragonball-z.html" aria-label="Link to Dragon Ball Z page">Dragon Ball Z</a></li>
+                <li><a href="dragonball-gt.html" aria-label="Link to Dragon Ball GT page">Dragon Ball GT</a></li>
+                <li><a href="dragonball-super.html" aria-label="Link to Dragon Ball Super page">Dragon Ball Super</a>
+                </li>
+                <li><a href="contact.html" aria-label="Link to contact page">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Send a Message</h2>
+        <form action="confirmation.html" method="get">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name here" required><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email here" required><br>
+            <label for="message">Message:</label><br>
+            <textarea name="message" id="message" cols="30" rows="10" placeholder="Enter your message here"
+                required></textarea><br>
+            <input type="submit" value="Send Message">
+        </form>
+    </main>
 
     <!-- Footer -->
     <footer>
         <!-- Social Media -->
         <div class="social-media">
-            <a href="https://www.facebook.com/dragonballz/" target="_blank">
+            <a href="https://www.facebook.com/dragonballz/" target="_blank" aria-label="Dragon Ball Z Facebook Page">
                 <i class="fab fa-facebook-f"></i>
             </a>
-            <a href="https://twitter.com/dragonballz?lang=en" target="_blank">
+            <a href="https://twitter.com/dragonballz?lang=en" target="_blank" aria-label="Dragon Ball Z Twitter Page">
                 <i class="fab fa-twitter"></i>
             </a>
         </div>
         <p>&copy; 2023 Dragon Ball History</p>
         <p>Disclaimer: This is a fan made website and is not affiliated with the Dragon Ball franchise.</p>
-        <p class="social-media">Created by: Sohail Mehmood<br><a href="https://www.linkedin.com/in/sohail-mehmood/" target="_blank"><i
-                    class="fab fa-linkedin"></i></a>
-            <a href="https://github.com/SohailMehmood" target="_blank"><i class="fab fa-github"></i></a>
+        <p class="social-media">Created by: Sohail Mehmood<br><a href="https://www.linkedin.com/in/sohail-mehmood/"
+                target="_blank" aria-label="My LinkedIn Page"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/SohailMehmood" target="_blank" aria-label="My GitHub Page"><i
+                    class="fab fa-github"></i></a>
         </p>
     </footer>
 </body>

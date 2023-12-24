@@ -1,6 +1,16 @@
 body {
     background-color: rgb(231, 229, 232);
-    color: rgb(28, 69, 149)
+    color: rgb(28, 69, 149);
+}
+
+main {
+    flex: 1 0 auto;
+    max-width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
@@ -39,22 +49,35 @@ nav li a {
     text-decoration: none;
 }
 
+nav li a:hover {
+    background-color: rgb(28, 69, 149);
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: rgb(251, 188, 66);
+}
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.responsive-image {
     max-width: 100%;
     height: auto;
     box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
 }
 
+figcaption {
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
 .series-container {
     display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
+    align-items: center;
+    justify-content: center;
 }
 
 .series-image {

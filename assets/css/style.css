@@ -82,9 +82,13 @@ figcaption {
 }
 
 .series-image {
-    max-width: 25%;
+    max-width: 100%;
     height: auto;
     box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
+}
+
+.right {
+    order: 1;
 }
 
 input[type=text],

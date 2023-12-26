@@ -135,6 +135,12 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        background-color: rgb(231, 229, 232);
+        color: rgb(28, 69, 149);
+        font-weight: 200;
+    }
+
     .hamburger-menu {
         display: block;
         position: fixed;

@@ -14,8 +14,17 @@ main {
     justify-content: center;
 }
 
+.hamburger-menu {
+    display: none;
+}
+
+#menu-toggle {
+    display: none;
+}
+
 h1 {
     text-align: center;
+    padding-top: 50px;
     color: rgb(1, 8, 10);
 }
 
@@ -26,6 +35,13 @@ h2 {
 
 p {
     text-align: center;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
 }
 
 nav ul {
@@ -77,6 +93,7 @@ figcaption {
 
 .series-container {
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
@@ -113,4 +130,37 @@ footer {
     display: flex;
     justify-content: center;
     gap: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .hamburger-menu {
+        display: block;
+        position: fixed;
+        top: 0;
+        right: 0;
+        z-index: 1000;
+        background-color: rgb(251, 188, 66);
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .menu-toggle:checked+.navbar {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .menu-toggle:checked~main {
+        margin-top: 1000px;
+        /* Adjust this value to suit your needs */
+    }
+
+    .series-container {
+        flex-direction: column;
+    }
+
+    .right {
+        order: 0;
+    }
 }

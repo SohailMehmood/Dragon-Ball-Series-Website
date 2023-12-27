@@ -122,6 +122,13 @@ textarea {
     background-color: rgb(231, 229, 232);
 }
 
+.confirmation {
+    text-align: center;
+    color: rgb(1, 8, 10);
+    font-weight: 600;
+    background-color: rgb(251, 188, 66);
+}
+
 footer {
     color: rgb(231, 106, 36);
     text-align: center;

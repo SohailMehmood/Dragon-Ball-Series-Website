@@ -127,7 +127,7 @@ You can fork this repository by using the following steps:
 | [Goku Growing Up](https://www.reddit.com/r/FortNiteBR/comments/wjfzo3/when_will_dragon_ball_skins_release/) | home page | image | hero image background |
 | [Dragon Ball](https://static.wikia.nocookie.net/5d8ce090-629e-44be-b59e-65e4220697d6/scale-to-width/755) | dragonball page | image | dragonball picture |
 | [Pilaf](https://dragonballupdates.fandom.com/wiki/Emperor_Pilaf) | dragonball page | image | pic of pilaf |
-| [Tournament]([Title](https://wallpapers.com/picture/goku-pictures-59daze7xqbps7r3p.html)) | dragonball page | image | pic of kid goku in tournament |
+| [Tournament](https://wallpapers.com/picture/goku-pictures-59daze7xqbps7r3p.html) | dragonball page | image | pic of kid goku in tournament |
 | [Red Ribbon](https://www.artstation.com/artwork/red-ribbon-army) | dragonball page | image | pic of the red ribbon army |
 | [Fortune Teller Baba](https://dragonball.fandom.com/wiki/Fortuneteller_Baba) | dragonball page | image | pic of forune teller baba |
 | [Tien](https://www.flickr.com/photos/58963067@N02/5424938824) | dragonball page | image | pic of tien |
@@ -156,7 +156,7 @@ You can fork this repository by using the following steps:
 | [Kid Buu](https://dragonball.fandom.com/wiki/Dragon_Ball_Z%253A_Season_9_%2528Quotes%2529) | dragonball z page | image | pic of kid buu |
 | [Peaceful World](https://dragon-ball-sf-universe.fandom.com/wiki/Peaceful_World_Saga) | dragonball z page | image | pic of the peaceful world |
 | [Dragon Ball Z Intro Audio](https://www.televisiontunes.com/Dragon_Ball_Z_Kai_-_Dragon_Soul.html) | dragonball z page | audio | dragonball z intro |
-| [Dragon Ball Z Intro Video](https://www.youtube.com/watch?v%253D-OyWMUaRsUc) | dragonball z page | image | dragonball z intro |
+| [Dragon Ball Z Intro Video](https://www.youtube.com/watch?v%253D-OyWMUaRsUc) | dragonball z page | videofix readme formatting error | dragonball z intro |
 | [Gt](https://upload.wikimedia.org/wikipedia/pt/9/92/DBGTLogo.png) | dragonball gt page | image | dragonball gt logo |
 | [Black Star](https://www.istockphoto.com/photo/four-star-dragonball-gm621132178-108411425) | dragonball gt page | image | pic of the black 4 star dragonball |
 | [Baby](https://upload.wikimedia.org/wikipedia/it/1/11/Baby_Vegeta.png) | dragonball gt page | image | pic of baby |

@@ -63,7 +63,9 @@ Dragon Ball Super
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
-- [Visual Studio Code](https://code.visualstudio.com/) used as an IDE for development.
+- [Visual Studio Code](https://code.visualstudio.com) used as an IDE for development.
+- [JPG to PNG](https://jpg2png.com) used to change img type.
+- [Youtube to MP3](https://en.onlymp3.to/s16/) used to get audio from youtube video.
 
 ## Testing
 
@@ -122,14 +124,55 @@ You can fork this repository by using the following steps:
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [Goku Growing Up](https://www.reddit.com/r/FortNiteBR/comments/wjfzo3/when_will_dragon_ball_skins_release/) | home page | image | hero image background |
+| [Dragon Ball](https://static.wikia.nocookie.net/5d8ce090-629e-44be-b59e-65e4220697d6/scale-to-width/755) | dragonball page | image | dragonball picture |
+| [Pilaf](https://dragonballupdates.fandom.com/wiki/Emperor_Pilaf) | dragonball page | image | pic of pilaf |
+| [Tournament]([Title](https://wallpapers.com/picture/goku-pictures-59daze7xqbps7r3p.html)) | dragonball page | image | pic of kid goku in tournament |
+| [Red Ribbon](https://www.artstation.com/artwork/red-ribbon-army) | dragonball page | image | pic of the red ribbon army |
+| [Fortune Teller Baba](https://dragonball.fandom.com/wiki/Fortuneteller_Baba) | dragonball page | image | pic of forune teller baba |
+| [Tien](https://www.flickr.com/photos/58963067@N02/5424938824) | dragonball page | image | pic of tien |
+| [King Piccolo](https://universal-dragon-ball.fandom.com/wiki/Goku_vs._King_Piccolo%253A_Rematch) | dragonball page | image | pic of king piccolo |
+| [Piccolo Jr](https://www.deviantart.com/gamefreak2008/art/Young-Piccolo-s-Revenge-116821751) | dragonball page | image | pic of piccolo jr |
+| [Dragon Ball Intro Audio](https://www.televisiontunes.com/Dragon_Ball_-_English.html) | dragonball page | audio | dragon ball intro |
+| [Dragon Ball Intro Video](https://www.youtube.com/watch?v%253DROnd7d4axHo) | dragonball page | video | dragonball intro |
+| [Dragon Ball Z](https://ultradragonball.fandom.com/wiki/Dragon_Ball_Z) | dragonball z page | image | pic of the dragon ball z logo |
+| [Raditz](https://www.flickr.com/photos/21601093%2540N04/3330869474/) | dragonball z page | image | pic of raditz |
+| [Vegeta](https://dragonball.fandom.com/f/p/4400000000000186542/r/4400000000000772616) | dragonball z page | image | pic of vegeta |
+| [Namek](https://wallpapers.com/images/high/namek-1080-x-1920-wallpaper-c7aepqwbbcg6nqle.webp) | dragonball z page | image | pic of planet namek landscape |
+| [Ginyu Force](https://www.ign.com/wikis/dragon-ball-fighterz/Captain_Ginyu) | dragonball z page | image | pic of captain ginyu and the ginyu force |
+| [Frieza](https://dragonballworld.fandom.com/wiki/Freeza) | dragonball z page | image | pic of frieza |
+| [Garlic Jr](https://coub.com/view/18n4ql) | dragonball z page | image | pic of garlic jr |
+| [Trunks](https://wallpapers.com/trunks-phone) | dragonball z page | image | pic of trunks |
+| [Androids](https://wallpapers.com/wallpapers/dragon-ball-characters-900-x-1200-wallpaper-aw6vh7unaly8eh70.html) | dragonball z page | image | pic of androids 17 and 18 |
+| [Imperfect](https://www.deviantart.com/greytonano/art/Cell-JR-Imperfect-673888972) | dragonball z page | image | pic of imperfect cell |
+| [Perfect](https://www.hiclipart.com/free-transparent-background-png-clipart-mardx) | dragonball z page | image | pic of perfect cell |
+| [Cell Games](https://dragonballfighterz.fandom.com/wiki/Cell_Games_Arena) | dragonball z page | image | pic of the cell games arena |
+| [Other World](https://wallpapers.com/wallpapers/goku-ssj3-jztrikiyg7xd3td0.html) | dragonball z page | image | pic of goku as ssj3 in other world |
+| [Great Saiyaman](https://hero.fandom.com/wiki/Gohan) | dragonball z page | image | pic of the great saiyaman |
+| [World Tournament](https://dragonball.fandom.com/wiki/World_Martial_Arts_Tournament) | dragonball z page | image | pic of the world martial arts tournament arena |
+| [Babidi](https://www.deviantart.com/tag/babidi?page%253D5) | dragonball z page | image | pic of babidi |
+| [Majin Buu](https://www.flickr.com/photos/26824605%2540N03/2536067446) | dragonball z page | image | pic of majin buu |
+| [Fusion](https://www.thegamer.com/dragon-ball-ridiculous-storylines-fans-forget/) | dragonball z page | image | pic of fusion |
+| [Kid Buu](https://dragonball.fandom.com/wiki/Dragon_Ball_Z%253A_Season_9_%2528Quotes%2529) | dragonball z page | image | pic of kid buu |
+| [Peaceful World](https://dragon-ball-sf-universe.fandom.com/wiki/Peaceful_World_Saga) | dragonball z page | image | pic of the peaceful world |
+| [Dragon Ball Z Intro Audio](https://www.televisiontunes.com/Dragon_Ball_Z_Kai_-_Dragon_Soul.html) | dragonball z page | audio | dragonball z intro |
+| [Dragon Ball Z Intro Video](https://www.youtube.com/watch?v%253D-OyWMUaRsUc) | dragonball z page | image | dragonball z intro |
+| [Gt](https://upload.wikimedia.org/wikipedia/pt/9/92/DBGTLogo.png) | dragonball gt page | image | dragonball gt logo |
+| [Black Star](https://www.istockphoto.com/photo/four-star-dragonball-gm621132178-108411425) | dragonball gt page | image | pic of the black 4 star dragonball |
+| [Baby](https://upload.wikimedia.org/wikipedia/it/1/11/Baby_Vegeta.png) | dragonball gt page | image | pic of baby |
+| [Super 17](https://www.flickr.com/photos/camusnosaint18/3162006542) | dragonball gt page | image | pic of super 17 |
+| [Shadow Dragons](https://www.flickr.com/photos/varon-fantasma/4686717680) | dragonball gt page | image | pic of the shadow dragons |
+| [Dragon Ball GT Intro Video](https://www.youtube.com/watch?v%253DTmGgBJSzCSM) | dragonball gt page | video | dragonball gt intro |
+| [Dragon Ball Gt Intro Audio](https://www.televisiontunes.com/Dragon_Ball_GT_-_Opening_by_Zard.html) | dragonball gt page | audio | dragonball gt intro |
+| [Super Logo](https://upload.wikimedia.org/wikipedia/it/3/3d/Dragon_Ball_Super_logo.png) | dragonball super page | image | pic of the dragonball super logo |
+| [Beerus](https://www.deviantart.com/themarioman56/art/Beerus-795380783) | dragonball super page | image | pic of beerus |
+| [Golden Frieza](https://wallpapers.com/wallpapers/golden-frieza-unleashing-power-k0cv7thbk841qugt.html) | dragonball super page | image | pic of golden frieza |
+| [Champa](https://www.deviantart.com/naironkr/art/champa-god-of-destruction-575497725) | dragonball super page | image | pic of champa |
+| [Copy Vegeta](https://www.deviantart.com/obsolete00/art/Copy-Vegeta-Dragon-Ball-Super-667541208) | dragonball super page | image | pic of copy vegeta |
+| [Goku Black](https://upload.wikimedia.org/wikipedia/pt/b/b6/Black%2526Zamasu.png) | dragonball super page | image | pic of goku black and zamasu |
+| [Tournament of Power](https://www.deviantart.com/asait1990/art/Dragon-Ball-Super-Tournament-Of-Power-Arena-712312448) | dragonball super page | image | pic of the tournament of power arena |
+| [Dragon Ball Super Intro Video](https://www.youtube.com/watch?v%253DvWtOP721n0s) | dragonball super page | video | dragonball super intro |
+| [Dragon Ball Super Intro Audio](https://www.youtube.com/watch?v%253D0LvIB2MOLnY) | dragonball super page | audio | dragonball super intro |
 
 ### Acknowledgements
 

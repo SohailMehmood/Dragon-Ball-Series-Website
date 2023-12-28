@@ -30,13 +30,12 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser | Home | About | Contact | etc | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome-home.png) | ![screenshot](documentation/browser-chrome-about.png) | ![screenshot](documentation/browser-chrome-contact.png) | ![screenshot](documentation/browser-chrome-etc.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox-home.png) | ![screenshot](documentation/browser-firefox-about.png) | ![screenshot](documentation/browser-firefox-contact.png) | ![screenshot](documentation/browser-firefox-etc.png) | Works as expected |
-| Edge | ![screenshot](documentation/browser-edge-home.png) | ![screenshot](documentation/browser-edge-about.png) | ![screenshot](documentation/browser-chrome-edge.png) | ![screenshot](documentation/browser-edge-etc.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera-home.png) | ![screenshot](documentation/browser-opera-about.png) | ![screenshot](documentation/browser-opera-contact.png) | ![screenshot](documentation/browser-opera-etc.png) | Minor differences |
-| repeat for any other tested browsers | x | x | x | x | x |
+| Browser | Home | Dragon Ball | Dragon Ball Z | Dragon Ball GT | Dragon Ball Super | Contact | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Chrome | ![screenshot](documentation/chrome-home.png) | ![screenshot](documentation/chrome-dragonball.png) | ![screenshot](documentation/chrome-dragonball-z.png) | ![screenshot](documentation/chrome-dragonball-gt.png) | ![screenshot](documentation/chrome-dragonball-super.png) | ![screenshot](documentation/chrome-contact.png) | Works as expected |
+| Firefox | ![screenshot](documentation/firefox-home.png) | ![screenshot](documentation/firefox-dragonball.png) | ![screenshot](documentation/firefox-dragonball-z.png) | ![screenshot](documentation/firefox-dragonball-gt.png) | ![screenshot](documentation/firefox-dragonball-super.png) | ![screenshot](documentation/firefox-contact.png) | Works as expected |
+| Edge | ![screenshot](documentation/edge-home.png) | ![screenshot](documentation/edge-dragonball.png) | ![screenshot](documentation/edge-dragonball-z.png) | ![screenshot](documentation/edge-dragonball-gt.png) | ![screenshot](documentation/edge-dragonball-super.png) | ![screenshot](documentation/edge-contact.png) | Works as expected |
+| Opera | ![screenshot](documentation/opera-home.png) | ![screenshot](documentation/opera-dragonball.png) | ![screenshot](documentation/opera-dragonball-z.png) | ![screenshot](documentation/opera-dragonball-gt.png) | ![screenshot](documentation/opera-dragonball-super.png) | ![screenshot](documentation/opera-contact.png) | Works as expected |
 
 ## Responsiveness
 
@@ -50,29 +49,14 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 ## Lighthouse Audit
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
-
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-home-mobile.png) | ![screenshot](documentation/lighthouse-home-desktop.png) | Some minor warnings |
-| About | ![screenshot](documentation/lighthouse-about-mobile.png) | ![screenshot](documentation/lighthouse-about-desktop.png) | Some minor warnings |
-| Gallery | ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
+| Home | ![screenshot](documentation/lighthouse-mobile-home.png) | ![screenshot](documentation/lighthouse-desktop-home.png) | Some minor warnings |
+| Dragonball | ![screenshot](documentation/lighthouse-mobile-dragonball.png) | ![screenshot](documentation/lighthouse-desktop-dragonball.png) | Slow response time due to video |
+| Dragonball Z | ![screenshot](documentation/lighthouse-mobile-dragonball-z.png) | ![screenshot](documentation/lighthouse-desktop-dragonball-z.png) | Slow response time due to video |
+| Dragonball GT | ![screenshot](documentation/lighthouse-mobile-dragonball-gt.png) | ![screenshot](documentation/lighthouse-desktop-dragonball-gt.png) | Slow response time due to video |
+| Dragonball Super | ![screenshot](documentation/lighthouse-mobile-dragonball-super.png) | ![screenshot](documentation/lighthouse-desktop-dragonball-super.png) | Slow response time due to video |
+| Contact| ![screenshot](documentation/lighthouse-mobile-contact.png) | ![screenshot](documentation/lighthouse-desktop-contact.png) | Some minor warnings |
 

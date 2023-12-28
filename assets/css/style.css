@@ -140,6 +140,10 @@ figcaption {
     order: 1;
 }
 
+textarea {
+    resize: none;
+}
+
 input[type=text],
 input[type=email],
 textarea {
@@ -150,6 +154,7 @@ textarea {
     border: 2px solid rgb(1, 8, 10);
     border-radius: 4px;
     background-color: rgb(231, 229, 232);
+
 }
 
 .confirmation {

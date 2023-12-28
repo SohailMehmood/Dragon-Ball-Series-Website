@@ -97,6 +97,7 @@ a:hover {
     background-color: rgb(251, 188, 66);
 }
 
+/* styling for the hero image */
 figure {
     display: flex;
     flex-direction: column;

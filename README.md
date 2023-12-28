@@ -156,7 +156,7 @@ You can fork this repository by using the following steps:
 | [Kid Buu](https://dragonball.fandom.com/wiki/Dragon_Ball_Z%253A_Season_9_%2528Quotes%2529) | dragonball z page | image | pic of kid buu |
 | [Peaceful World](https://dragon-ball-sf-universe.fandom.com/wiki/Peaceful_World_Saga) | dragonball z page | image | pic of the peaceful world |
 | [Dragon Ball Z Intro Audio](https://www.televisiontunes.com/Dragon_Ball_Z_Kai_-_Dragon_Soul.html) | dragonball z page | audio | dragonball z intro |
-| [Dragon Ball Z Intro Video](https://www.youtube.com/watch?v%253D-OyWMUaRsUc) | dragonball z page | videofix readme formatting error | dragonball z intro |
+| [Dragon Ball Z Intro Video](https://www.youtube.com/watch?v%253D-OyWMUaRsUc) | dragonball z page | video | dragonball z intro |
 | [Gt](https://upload.wikimedia.org/wikipedia/pt/9/92/DBGTLogo.png) | dragonball gt page | image | dragonball gt logo |
 | [Black Star](https://www.istockphoto.com/photo/four-star-dragonball-gm621132178-108411425) | dragonball gt page | image | pic of the black 4 star dragonball |
 | [Baby](https://upload.wikimedia.org/wikipedia/it/1/11/Baby_Vegeta.png) | dragonball gt page | image | pic of baby |

@@ -43,7 +43,7 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device | Home | Dragon Ball | Dragon Ball Z | Dragon Ball GT | Dragon Ball Super | Contact | Notes |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Mobile (DevTools) | ![screenshot](documentation/responsive-mobile-home.png) | ![screenshot](documentation/responsive-mobile-dragonball.png) | ![screenshot](documentation/responsive-mobile-dragonball-z.png) | ![screenshot](documentation/responsive-mobile-dragonball-gt.png) | ![screenshot](documentation/responsive-mobile-dragonball-super.png) | ![screenshot](documentation/responsive-mobile-contact.png) | Works as expected |
 | Desktop | ![screenshot](documentation/responsive-desktop-home.png) | ![screenshot](documentation/responsive-desktop-dragonball.png) | ![screenshot](documentation/responsive-desktop-dragonball-z.png) | ![screenshot](documentation/responsive-desktop-dragonball-gt.png) | ![screenshot](documentation/responsive-desktop-dragonball-super.png) | ![screenshot](documentation/responsive-desktop-contact.png) | Works as expected |
 | 4K Monitor | ![screenshot](documentation/responsive-4k-home.png) | ![screenshot](documentation/responsive-4k-dragonball.png) | ![screenshot](documentation/responsive-4k-dragonball-z.png) | ![screenshot](documentation/responsive-4k-dragonball-gt.png) | ![screenshot](documentation/responsive-4k-dragonball-super.png) | ![screenshot](documentation/responsive-4k-contact.png) | Noticeable scaling issues |

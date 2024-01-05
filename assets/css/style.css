@@ -177,13 +177,15 @@ textarea {
 }
 
 input[type=submit] {
-    background-color: rgb(1, 8, 10);
-    color: rgb(251, 188, 66);
+    background-color: rgb(251, 188, 66);
+    color: rgb(1, 8, 10);
+    font-weight: bolder;
     padding: 12px 20px;
     margin: 8px 0;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    box-shadow: rgba(1, 8, 10, 0.6) 0px 5px 15px;
 }
 
 .confirmation {

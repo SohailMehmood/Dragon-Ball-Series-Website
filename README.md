@@ -55,6 +55,92 @@ Dragon Ball Super
 
 </details>
 
+## Features
+
+### Existing Features
+
+- **Navigation bar**
+
+    - The navigation bar is a critical website feature, providing users with a menu to easily navigate and access different sections.
+
+![screenshot](documentation/navigation.png)
+
+- **Social Media**
+
+    - Social media links in the footer, typically represented by icons, offer users quick access to dragonball social profiles. For users, social media links provide instant connection, enhanced engagement, and opportunities for content discovery. It also includes convenient links to the creator's LinkedIn and GitHub profiles, providing users with easy access to the creator's professional and coding profiles. 
+
+![screenshot](documentation/footer.png)
+
+- **Home page**
+
+    - The home page of a Dragon Ball website serves as the entry point, featuring a visually striking hero section. It offers a brief yet engaging introduction to Dragon Ball. This page enhances user engagement, reinforces the Dragon Ball brand, and provides quick access to different aspects of the series, making it an inviting and informative entry point for both newcomers and fans.
+
+![screenshot](documentation/chrome-home.png)
+
+- **Dragonball page**
+
+    - The Dragon Ball page offers an organized overview of the series' story arcs. Featuring visual representations and descriptions for each saga, the page aids in quick reference and enhances user understanding of the series' narrative structure.
+
+![screenshot](documentation/chrome-dragonball.png)
+
+ - **Dragonball Z page**
+
+    - The Dragon Ball Z page highlights story arcs from Dragon Ball Z with organized visuals and detailed descriptions. It offers a focused exploration of Dragon Ball Z, enhancing user engagement and providing a comprehensive hub for fans to deepen their understanding of the series.
+
+![screenshot](documentation/chrome-dragonball-z.png)
+
+ - **Dragonball GT page**
+
+    - The Dragon Ball GT page spotlights story arcs from Dragon Ball GT with organized visuals and detailed descriptions. It provides a dedicated space for fans to explore GT's unique sagas.
+
+![screenshot](documentation/chrome-dragonball-gt.png)
+
+ - **Dragonball Super page**
+
+    - The Dragon Ball Super page highlights story arcs from Dragon Ball Super, featuring organized visuals and detailed descriptions. It provides fans with a dedicated space to explore Super's unique sagas, encouraging engagement and offering a comprehensive hub for a deeper understanding.
+
+![screenshot](documentation/chrome-dragonball-super.png)
+
+- **Contact page**
+
+    - The Contact page facilitates direct communication with the website's creator. It includes a user-friendly form for sending messages, ensuring straightforward interaction and providing an accessible channel to connect with the creator.
+
+![screenshot](documentation/contact.png)
+
+- **Confirmation page**
+
+    - The Confirmation page assures users of a successful message submission to the website creator. It features a brief confirmation message and automatically redirects users to the home page after 5 seconds, ensuring a smooth and efficient user experience.
+
+![screenshot](documentation/confirmation.png)
+
+- **Youtube video**
+
+    - Embedded YouTube videos of the intros for each series onto the series page. This provides users with a visually engaging and convenient way to preview the intro directly on the site.
+
+![screenshot](documentation/video.png)
+
+- **MP3 Audio intro**
+
+    - Playable audio file which enables users to play embedded MP3 files of each Dragon Ball series' soundtrack directly on the relevant pages, enhancing the user experience.
+
+![screenshot](documentation/audio.png)
+
+### Future Features
+
+🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+Do you have additional ideas that you'd like to include on your project in the future?
+Fantastic! List them here!
+It's always great to have plans for future improvements!
+Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+- Feature #1: Movie Showcase Page
+    - Introduce a dedicated page for showcasing movies related to the Dragon Ball series. Include relevant details, summaries, and potentially embedded trailers or clips for an engaging user experience.
+- Feature #2: Game Showcase Page
+    - Implement a dedicated page highlighting Dragon Ball video games. Provide information on various games, including release dates, platforms, and potentially embed gameplay videos for user exploration.
+
 ## Tools & Technologies Used
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.

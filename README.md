@@ -127,15 +127,6 @@ Dragon Ball Super
 
 ### Future Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 - Feature #1: Movie Showcase Page
     - Introduce a dedicated page for showcasing movies related to the Dragon Ball series. Include relevant details, summaries, and potentially embedded trailers or clips for an engaging user experience.
 - Feature #2: Game Showcase Page
